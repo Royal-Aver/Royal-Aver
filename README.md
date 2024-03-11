@@ -1,3 +1,5 @@
 Всем привет👋 Меня зовут Юра!😎
 
-<img src="giphy.gif" width="200" height="100">
+<div id="header" align="center">
+  <img src="giphy.gif" width="100"/>
+</div>
