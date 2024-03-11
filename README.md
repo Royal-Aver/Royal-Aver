@@ -1,3 +1,3 @@
 Всем привет👋 Меня зовут Юра!😎
 
-![Love python](giphy.gif)
+<img src="giphy.gif" width="200" height="100">
