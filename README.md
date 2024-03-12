@@ -14,7 +14,7 @@ I am a Backand Developer <img src="giphy (1).gif" width="30"> from Russia.
 
 - :seedling: I study primarily Python and Django
 
-- :zap: In my free time I read books and technical documentation, solve problems on CodeWars [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Royal-Aver)
+- :zap: In my free time I read books and technical documentation, solve problems on CodeWars [![Codewars](https://www.codewars.com/users/Royal-Aver/badges/micro)](https://www.codewars.com/users/Royal-Aver)
 
 
 ### :hammer_and_wrench: Languages and Tools :
