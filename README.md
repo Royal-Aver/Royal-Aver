@@ -8,7 +8,7 @@ Hi, everybody👋 My name is Yura!  😎
 
 ### :man_technologist: About Me :
 
-I am a Backand Developer <img src="giphy (1).gif" width="30"> from Russia.
+I am a Backand Developer  <img src="giphy (1).gif" width="30">  from Russia.
 
 - :telescope: I am learning backend development for building web applications
 
