@@ -1,7 +1,7 @@
 Hello, everybody👋 My name is Yura! 😎
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="giphy.gif" width="100"/>
 </div>
 
