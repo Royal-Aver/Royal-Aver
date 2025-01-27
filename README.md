@@ -1,4 +1,4 @@
-Hello, everybody👋 My name is Yura!   😎
+Hello, everybody👋 My name is Yura!  😎
 
 
 <div id="header" align="left">
